@@ -36,7 +36,4 @@
 
 
 To contribute:
-
-1. Fork repository
-2. Edit README.md 
-3. Open a pull request!
+ - Please add additional entries at the bottom of respective lists
