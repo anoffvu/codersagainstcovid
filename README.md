@@ -26,6 +26,7 @@
 # Requests
 - Community resource + supply sharing
   - Community grocery list pooling to further limit necessity to go into public, especially helpful for eldery
+- How do we support small businesses and those that just lost their primary income?
 
 
 To contribute:
