@@ -17,6 +17,11 @@
 - [WHO COVID-19 Homepage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [CDC COVID-19 Homepage](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
+# Requests
+- Community grocery list pooling to limit necessity to go outside, especially helpful for eldery
+- Community resource + supply sharing
+
+
 To contribute:
 
 1. Fork repository
