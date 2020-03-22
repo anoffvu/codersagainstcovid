@@ -12,6 +12,7 @@
 - [COVID-19 Scenarios](https://neherlab.org/covid19/) [(github)](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
 - [Folding@Home Coronavirus](https://foldingathome.org/) [(github)](https://github.com/FoldingAtHome/coronavirus) - Crowdsourced Protein Folding Analysis and Simulations for COVID-19
 - [COVID-19 Data API](https://github.com/mathdroid/covid-19-api) [(github)](https://github.com/mathdroid/covid-19-api) - API Serving John Hopkins' Data
+- [COVID-19 GraphQL API](https://github.com/rlindskog/covid19-graphql) - API Serving John Hopkins' Data
 - [COVID-19 Dashboard](https://covid19dashboards.com/) [(github)](https://github.com/github/covid19-dashboard) - GitHub's COVID-19 Stats Dashboard
 - [The COVID Tracking Project](https://covidtracking.com/) [(github)](https://github.com/COVID19Tracking) - Comprehensive Testing Data for the United States
 
