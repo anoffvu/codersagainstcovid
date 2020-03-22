@@ -1,4 +1,8 @@
-# Projects
+*If you know of any more Coronavirus software efforts that could use some help, please add them to the list!*
+
+*Let's all work together :-)*
+
+# Projects Against COVID-19
 - [FindCovidTesting.com](https://findcovidtesting.com/) [(github)](https://github.com/codersagainstcovidorg/covid19testing-map) - Testing Site Map
 
 	- [Add a new testing site](https://docs.google.com/forms/d/e/1FAIpQLSe2sCuCrQwEHwi3FLiyRB9CYWRmSUiGyyK8RLsQPwhfrJTI4g/viewform)
@@ -18,8 +22,8 @@
 - [CDC COVID-19 Homepage](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
 # Requests
-- Community grocery list pooling to limit necessity to go outside, especially helpful for eldery
 - Community resource + supply sharing
+  - Community grocery list pooling to further limit necessity to go into public, especially helpful for eldery
 
 
 To contribute:
