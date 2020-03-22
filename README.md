@@ -9,7 +9,8 @@
 
 - [ScreenCovid.com](http://screencovid.com) [(github)](https://github.com/tconley/screencovid.com/) - COVID test prescreening web app
 - [ScreenCovid.org](http://screencovid.org) - COVID Prescreening research and risk algorithm
-
+- [COVID-19 Scenarios](https://neherlab.org/covid19/) [(github)](https://github.com/neherlab/covid19_scenarios) - Models of COVID-19 outbreak trajectories and hospital demand
+- [Folding@Home Coronavirus](https://foldingathome.org/) [(github)](https://github.com/FoldingAtHome/coronavirus) - Crowdsourced Protein Folding Analysis and Simulations for COVID-19
 # Helpful Links
 - [Johns Hopkins Data Repository](https://github.com/CSSEGISandData/COVID-19)
 
@@ -20,6 +21,7 @@
 - [WHO Database of Scientific Findings](https://worldhealthorg-my.sharepoint.com/:f:/g/personal/garnicacarrenoj_who_int/EnzxnSJt68pIqLBwPYdqkqcB1KHboCAQJRN3mkTt3ZqDAA?e=OtxhHb)
 - [WHO COVID-19 Homepage](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - [CDC COVID-19 Homepage](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+- [MIDAS Coronavirus Repository](https://github.com/midas-network/COVID-19)
 
 # Requests
 - Community resource + supply sharing
